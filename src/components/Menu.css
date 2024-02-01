@@ -1,0 +1,10 @@
+nav{
+    display: none;
+}
+
+.container-svg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
