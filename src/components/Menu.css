@@ -8,3 +8,27 @@ nav{
     justify-content: center;
     height: 100%;
 }
+
+@media only screen and (min-width: 1024px){
+    nav{
+        display: block;
+    }
+    .container-svg{
+        display: none;
+    }
+
+    nav ul{
+        display: flex;
+        gap: 40px;
+    }
+
+    nav ul li{
+        list-style: none;
+        
+    }
+
+    nav ul li a{
+        text-decoration: none;
+        color: white;
+    }
+}

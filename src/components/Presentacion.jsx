@@ -6,7 +6,7 @@ export const Presentacion = () => {
         <section className="tag-section--presentacion">
             <div className="container-fondo">
                 <div className="container-texto">
-                    IMMERSIVE EXPERIENCIES THAT DELIVER
+                    <h1>IMMERSIVE EXPERIENCIES THAT DELIVER</h1>
                 </div>
             </div>
         </section>

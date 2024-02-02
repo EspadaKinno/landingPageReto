@@ -6,7 +6,7 @@ export const Descripcion = () => {
     <>
         <section className="tag-section--descripcion">
             <div className="container-section--descripcion">
-                <div>
+                <div className="container-section__contenedor--imagen">
                     <img src={imagenDescripcion} alt="imagen" className="container-section--img" />
                 </div>
                 <div className="container-section--texto">

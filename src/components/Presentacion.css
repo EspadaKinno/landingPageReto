@@ -24,7 +24,42 @@
 
 .container-texto{
     color: white;
-    font-size: 40px;
+    
     padding: 20px;
     border: 2px solid white;
+}
+
+
+@media only screen and (min-width: 1024px){
+    .tag-section--presentacion{
+        width: 100%;
+        background-image: url("../assets/desktop/image-hero.jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-fondo{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: 100%;
+        padding: 20px;
+        max-width: 1024px;
+    }
+
+    .container-texto{
+        color: white;
+        font-size: 40px;
+        padding: 20px;
+        border: 2px solid white;
+        width: 600px;
+    }
 }
