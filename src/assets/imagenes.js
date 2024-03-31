@@ -15,5 +15,13 @@ export default{
     "img5": imagen5,
     "img6": imagen6,
     "img7": imagen7,
-    "img8": imagen8
+    "img8": imagen8,
+    "uno": "Deep Earth",
+    "dos": "Night Arcade",
+    "tres": "Soccer Team VR",
+    "cuatro": "The grid",
+    "cinco": "From Up Above VR",
+    "seis": "Pocket Borealis",
+    "siete": "The curiosity",
+    "ocho": "Make It Fisheye"
 }
